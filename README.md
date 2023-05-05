@@ -4,7 +4,7 @@ Hi 👋 My name is Juan Pablo
 Front End Developer
 ------------------------
 
-I'm interesting in learning and gaining experience in web development. My skills are React JS, JavaScript, Sprig, Java, HTML & CSS, Tailwind.css, Bootstrap and MySQL
+I'm interested in learning and gaining experience in web development. My skills are React JS, JavaScript, Sprig, Java, HTML & CSS, Tailwind.css, Bootstrap and MySQL
 
 * 🌍  I'm based in Mendoza, Argentina
 * ✉️  You can contact me at [jpgottardini@outlook.es](mailto:jpgottardini@outlook.es)
